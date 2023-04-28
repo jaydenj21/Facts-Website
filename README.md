@@ -4,7 +4,8 @@
   <h1 align="center">💡 Facts-Website ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. <br />
+    Initially, this project served as a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. The website
+    since then allows for various users across Github to add facts of their own, allowing the site to serve as an "Interesting Facts" page. <br />
   Site URL / Demo: 
     <a href="https://minhaj-313.github.io/Facts-Website/">minhaj-313.github.io/Facts-Website/</a>
     <br />
@@ -44,14 +45,13 @@ If You are New to Contribution Then first read CONTRIBUTING.md file the follow a
 Before Starting Contribution first You Need to Give Star to This Repository and Follow me then you can Start.
 ``
 # Steps :
-- Copy the below side code and paste 
-- Paste it in index.html
-- Paste Code before This Comment (<!-- ====== Add Your Fact Before this Comment ======= -->)
-- Change Your Name 
-- Add Your Fact
+- Copy the code block below and paste it into index.html
+- Ensure your code is pasted before the comment (<!-- ====== Add Your Fact Before this Comment ======= -->)
+- Change the Your Name 
+- Add Your Fact within the card-inner class
 - Add Your Name and Github Id and Link
-- Then Send me Pull Request
-- Dont touch any other code.
+- Send Pull Request
+- You'll be able to see your fact successfully included within the site upon an a completed merge.
 
 
 ````sh
